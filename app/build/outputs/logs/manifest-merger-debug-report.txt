@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f281c12805ba4c7932f049aa96638219/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/43028aa61a1af709054e5ff17463d099/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/831dab7c18a33622f80498f04a87f72d/paging-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1d918c94ae5795914310af27b13c2dff/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/d076ba67b054afef03c49687e28f901b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.apollographql.apollo:apollo-android-support:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8d19d349ab016094f394c0773e11d35f/jetified-apollo-android-support-2.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/3044136ad1ddfcf835e9a9a9db180953/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f4c1b34bde4b93a69ea8605e09a9ae8a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7cd3b2f070ff76dc7e431b7c788513ad/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/972947221e6365643e74a4a6e96f97e3/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/331f10b302d682d8a570965c3f69d586/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/95ca59b167764e111f909ba6c1feae96/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8e8e491e20a751c47b75f31ca5d96967/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1c6700963256137f03ecdf5689d32c33/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f24898fc76820e2e9ad3352ee643aa68/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/fa2142187faa32d0a403ee0a21952318/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/2ec1fe7a66c546631260a4cf0ddf489c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/06df2a92a9d3265f1ac03bd9def03263/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/024e8c537a6173d3a6e593bed112706f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/014784cd06aebc328933d1f3dcf82b0e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60aa33f1bc1147b6ba5808db210a2570/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/0f6d7c6bb6b6a17640a59600200953fe/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.apollographql.apollo:apollo-normalized-cache-sqlite:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/e71ba4ed72b11f627f997b1b130086b5/jetified-apollo-normalized-cache-sqlite-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.sqldelight:android-driver:1.3.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/a159c63c8933e03a56846e280f83feed/jetified-android-driver-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/87f610fe60db2ef7b091f815e078c39e/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/31db258454bd6dbf34e52d63a2c02049/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60ea50ab82ff927ae2963e1b9f6eb1c5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b051765895bb21ede862cbc554fae1ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7c9bac46a24fa03bd5bf917c5cfdcd76/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b2fc218ec522d992df947e8cba856355/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.apollographql.apollo:apollo-android-support:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8d19d349ab016094f394c0773e11d35f/jetified-apollo-android-support-2.0.0/AndroidManifest.xml:9:5-67
+MERGED from [com.apollographql.apollo:apollo-android-support:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8d19d349ab016094f394c0773e11d35f/jetified-apollo-android-support-2.0.0/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/43028aa61a1af709054e5ff17463d099/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/43028aa61a1af709054e5ff17463d099/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/3044136ad1ddfcf835e9a9a9db180953/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/3044136ad1ddfcf835e9a9a9db180953/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/0f6d7c6bb6b6a17640a59600200953fe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/0f6d7c6bb6b6a17640a59600200953fe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.moin.graphqlapp.MainActivity
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f281c12805ba4c7932f049aa96638219/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f281c12805ba4c7932f049aa96638219/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/43028aa61a1af709054e5ff17463d099/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/43028aa61a1af709054e5ff17463d099/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/831dab7c18a33622f80498f04a87f72d/paging-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/831dab7c18a33622f80498f04a87f72d/paging-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1d918c94ae5795914310af27b13c2dff/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1d918c94ae5795914310af27b13c2dff/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/d076ba67b054afef03c49687e28f901b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/d076ba67b054afef03c49687e28f901b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.apollographql.apollo:apollo-android-support:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8d19d349ab016094f394c0773e11d35f/jetified-apollo-android-support-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.apollographql.apollo:apollo-android-support:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8d19d349ab016094f394c0773e11d35f/jetified-apollo-android-support-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/3044136ad1ddfcf835e9a9a9db180953/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/3044136ad1ddfcf835e9a9a9db180953/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f4c1b34bde4b93a69ea8605e09a9ae8a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f4c1b34bde4b93a69ea8605e09a9ae8a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7cd3b2f070ff76dc7e431b7c788513ad/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7cd3b2f070ff76dc7e431b7c788513ad/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/972947221e6365643e74a4a6e96f97e3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/972947221e6365643e74a4a6e96f97e3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/331f10b302d682d8a570965c3f69d586/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/331f10b302d682d8a570965c3f69d586/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/95ca59b167764e111f909ba6c1feae96/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/95ca59b167764e111f909ba6c1feae96/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8e8e491e20a751c47b75f31ca5d96967/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/8e8e491e20a751c47b75f31ca5d96967/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1c6700963256137f03ecdf5689d32c33/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/1c6700963256137f03ecdf5689d32c33/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f24898fc76820e2e9ad3352ee643aa68/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f24898fc76820e2e9ad3352ee643aa68/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/fa2142187faa32d0a403ee0a21952318/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/fa2142187faa32d0a403ee0a21952318/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/2ec1fe7a66c546631260a4cf0ddf489c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/2ec1fe7a66c546631260a4cf0ddf489c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/210b12c5d17ce1aa51d6e5cdb0da1f00/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/06df2a92a9d3265f1ac03bd9def03263/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/06df2a92a9d3265f1ac03bd9def03263/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/024e8c537a6173d3a6e593bed112706f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/024e8c537a6173d3a6e593bed112706f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/014784cd06aebc328933d1f3dcf82b0e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/014784cd06aebc328933d1f3dcf82b0e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60aa33f1bc1147b6ba5808db210a2570/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60aa33f1bc1147b6ba5808db210a2570/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/0f6d7c6bb6b6a17640a59600200953fe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/0f6d7c6bb6b6a17640a59600200953fe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.apollographql.apollo:apollo-normalized-cache-sqlite:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/e71ba4ed72b11f627f997b1b130086b5/jetified-apollo-normalized-cache-sqlite-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.apollographql.apollo:apollo-normalized-cache-sqlite:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/e71ba4ed72b11f627f997b1b130086b5/jetified-apollo-normalized-cache-sqlite-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqldelight:android-driver:1.3.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/a159c63c8933e03a56846e280f83feed/jetified-android-driver-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.3.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/a159c63c8933e03a56846e280f83feed/jetified-android-driver-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/87f610fe60db2ef7b091f815e078c39e/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/87f610fe60db2ef7b091f815e078c39e/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/31db258454bd6dbf34e52d63a2c02049/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/31db258454bd6dbf34e52d63a2c02049/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60ea50ab82ff927ae2963e1b9f6eb1c5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/60ea50ab82ff927ae2963e1b9f6eb1c5/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b051765895bb21ede862cbc554fae1ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b051765895bb21ede862cbc554fae1ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7c9bac46a24fa03bd5bf917c5cfdcd76/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/7c9bac46a24fa03bd5bf917c5cfdcd76/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b2fc218ec522d992df947e8cba856355/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/b2fc218ec522d992df947e8cba856355/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noormohd/AndroidStudioProjects/GraphQLApp/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/noormohd/.gradle/caches/transforms-2/files-2.1/f9999f54c9209cf29ad62d7efa92b3f8/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

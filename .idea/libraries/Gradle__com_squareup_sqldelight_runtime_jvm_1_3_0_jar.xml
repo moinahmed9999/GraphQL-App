@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sqldelight:runtime-jvm:1.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.3.0/826831ad4ea972f54067b2f00de130804bc530ac/runtime-jvm-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.3.0/dc39cc38b0b35a9e5ea59e62a0e919bd6e3a65ab/runtime-jvm-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.3.0/2d8b64cc41e37134e48ac487ef2ce565f8d0aa9b/runtime-jvm-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

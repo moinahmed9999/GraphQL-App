@@ -1,0 +1,24 @@
+query MyQuery {
+	User {
+		user_id
+		name
+		university
+		education
+		course
+	}
+}
+
+mutation MyMutation {
+	insert_User(objects:[
+		{user_id:555
+			name:"DEF"
+			university:"DTU"
+			education:"BTech"
+			course:"WASD"}]) {
+		affected_rows
+		returning{
+			name
+			user_id
+		}
+	}
+}
